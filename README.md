@@ -1,3 +1,3 @@
 # rpx cli
 
-test project
+test project test
